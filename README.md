@@ -1,10 +1,9 @@
 ---
-title: CS1 Object Detection
-emoji: 🧳
+title: CS1 Object Detection (DETR ResNet-50)
+emoji: 📦
 colorFrom: green
 colorTo: green
 sdk: gradio
-sdk_version: 5.6.1
 app_file: app.py
 pinned: false
 license: mit
