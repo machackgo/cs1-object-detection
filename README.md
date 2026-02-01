@@ -1,2 +1,9 @@
-# cs1-object-detection
-Gradio web app for object detection using Hugging Face Inference API (DETR ResNet-50) deployed on Hugging Face Spaces.
+title: Cs1 Object Detection
+emoji: 📚
+colorFrom: green
+colorTo: green
+sdk: gradio
+sdk_version: 6.5.1
+app_file: app.py
+pinned: false
+license: mit
